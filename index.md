@@ -10,7 +10,4 @@ title: Home
 
 The purpose of this site is to aid in the introduction and organization of people who love New Orleans and want to help make it better.
 
-## Related Links
-
-* [Membership](https://github.com/neworleans/neworleans.github.io/wiki/Membership)
-* [Potential Projects](https://github.com/neworleans/neworleans.github.io/wiki/Potential-Projects)
+[Membership](https://neworleans.github.io/membership) | [Projects](https://neworleans.github.io/projects)

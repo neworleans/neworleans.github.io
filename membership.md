@@ -3,7 +3,7 @@ layout: default
 title: Membership
 ---
 
-We use the term "membership" fairly loosely. There are no dues, duties, or anything like that. This is just a listing of people who are interested in the group and its activities to facilitate communication within the group.
+We use the term "membership" fairly loosely. There are no dues, duties, or anything like that. This is just a listing of people who are interested in the group and its activities to facilitate communication within the group. Please [update this page](https://github.com/neworleans/neworleans.github.io/edit/master/membership.md) to include yourself if you wish to be added.
 
 For the time being, we're using the [#civichacking channel](https://nola.slack.com/messages/civichacking/) of [NOLA Slack](https://nola.slack.com) as our primary means of group communication. Ask anyone listed below and they can arrange for you to be added.
 

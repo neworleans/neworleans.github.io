@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-Below is a list of existing civic hacking projects or ideas for them. Contacts, web sites with additional information, and other relevant information is listed where it is known. Please feel free to update this page with any lacking information or projects that aren't currently listed.
+Below is a list of existing civic hacking projects or ideas for them. Contacts, web sites with additional information, and other relevant information is listed where it is known. Please feel free to [update this page](https://github.com/neworleans/neworleans.github.io/edit/master/projects.md) with any lacking information or projects that aren't currently listed.
 
 ## ProjectNola
 

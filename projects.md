@@ -15,7 +15,7 @@ Web site: [http://www.projectnola.com](http://www.projectnola.com)
 
 ## NOLA Tech 4 Youth
 
-Web site: [http://www.meetup.com/NOLA-Tech-4-Youth-Startups-Pitching-Products-Code/](http://www.meetup.com/NOLA-Tech-4-Youth-Startups-Pitching-Products-Code/)
+Web site: [http://www.meetup.com/NOLA-Tech-4-Youth...](http://www.meetup.com/NOLA-Tech-4-Youth-Startups-Pitching-Products-Code/)
 
 > "Pete Jacobson is trying to start a meetup to get the youth involved in programming."
 >

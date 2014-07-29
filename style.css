@@ -1,18 +1,18 @@
 /* Based on http://hypertexthero.com/work/simple-web-typography-template/ */
 
 body {
-  text-align:center; 
-  color:#000; 
-  font-family:georgia, serif; 
-  font-size:120%; 
+  text-align:center;
+  color:#000;
+  font-family:georgia, serif;
+  font-size:120%;
   line-height:1.6;
-  margin:0; 
-  padding:2em 2em 5em; 
+  margin:0;
+  padding:0 2em 5em;
   background:rgb(253, 253, 253);
   margin:auto;
   max-width:33em;
   color:rgb(10, 10, 10);
-} 
+}
 
 a {outline:none !important; font-weight:bold; text-decoration:none;}
 a:link {color:#c00;}
@@ -21,45 +21,45 @@ a:hover {color:#606;}
 a:active {color:#900; outline:none;}
 
 h1 {
-  font-size:320%;
+  font-size:200%;
   line-height:1.35;
   font-style:normal;
-  margin:1.5em 0 0.8em;
+  margin:0.5em 0 0.5em;
 }
 
 h2 {
   font-weight:bold;
-  font-size:200%;
-  margin:1em 0 0.8em;
+  font-size:180%;
+  margin:0.5em 0 0.5em;
 }
 
 h3 {
   font-weight:normal;
   text-transform:uppercase;
-  font-size:150%;
+  font-size:160%;
   letter-spacing:0.15em;
-  margin:1.75em 0 0.8em;
+  margin:0.5em 0 0.5em;
 }
 
 h4 {
   font-weight:normal;
-  font-size:150%;
+  font-size:140%;
   letter-spacing:0.1em;
-  margin:1.5em 0 0.8em;
+  margin:0.5em 0 0.5em;
 }
 
 h5 {
   font-weight:normal;
   font-style:italic;
-  font-size:150%;
-  margin:1.5em 0 0.8em;
+  font-size:120%;
+  margin:0.5em 0 0.5em;
 }
 
 h6 {
   font-weight:bold;
   font-size:100%;
   letter-spacing:0.1em;
-  margin:1.5em 0 0.8em;
+  margin:0.5em 0 0.5em;
 }
 
 p {

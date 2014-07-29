@@ -7,27 +7,27 @@ Below is a list of existing civic hacking projects or ideas for them. Contacts, 
 
 ## ProjectNola
 
-Web site: http://www.projectnola.com
+Web site: [http://www.projectnola.com](http://www.projectnola.com)
 
 > "Please check with ProjectNola. They are doing a great job in helping to fight crime using their video network and radio scanners and communication with police. I am not aware of a specific software project they may have but would like to throw them whatever assistance is possible to help reduce crime and prosecute offenders." ~ [Greg Lirette](https://www.facebook.com/greglir?fref=ufi) ([source](https://www.facebook.com/groups/nolatech/permalink/688800001175528/?comment_id=689718451083683&offset=0&total_comments=15))
 
 ## NOLA Tech 4 Youth
 
-Web site: http://www.meetup.com/NOLA-Tech-4-Youth-Startups-Pitching-Products-Code/
+Web site: [http://www.meetup.com/NOLA-Tech-4-Youth-Startups-Pitching-Products-Code/](http://www.meetup.com/NOLA-Tech-4-Youth-Startups-Pitching-Products-Code/)
 
 > "Pete Jacobson is trying to start a meetup to get the youth involved in programming." ~ [Bryan Joseph](https://www.facebook.com/bryanjos) ([source](https://www.facebook.com/groups/nolatech/permalink/688800001175528/?comment_id=689718964416965&offset=0&total_comments=15))
 
 ## Operation Spark
 
-Web site: http://operationspark.org
+Web site: [http://operationspark.org](http://operationspark.org)
 
 Contact: [John Fabroni](https://twitter.com/OperationSpark)
 
-> "John Fabroni... is running what is basically Cafe Reconcile for web development. He's running a bootcamp out of 4.0 Schools right now teaching underprivileged kids how to code and it's going really well. This is an awesome program that I'd love to see more people get involved in." ~ [504boy](http://www.reddit.com/user/504boy) ([source](http://www.reddit.com/r/NewOrleans/comments/2c1zk8/operation_spark_is_teaching_underpriveleged_new/))
+> "John Fabroni... is running what is basically Cafe Reconcile for web development. He's running a bootcamp out of 4.0 Schools right now teaching underprivileged kids how to code and it's going really well. This is an awesome program that I'd love to see more people get involved in." ~ [504boy]([http://www.reddit.com/user/504boy) ([source](http://www.reddit.com/r/NewOrleans/comments/2c1zk8/operation_spark_is_teaching_underpriveleged_new/))](http://www.reddit.com/user/504boy) ([source](http://www.reddit.com/r/NewOrleans/comments/2c1zk8/operation_spark_is_teaching_underpriveleged_new/)))
 
 ## Lakeview Civic
 
-Web site: http://www.lakeviewcivic.org
+Web site: [http://www.lakeviewcivic.org](http://www.lakeviewcivic.org)
 
 Contact: [Ralph Schindler](mailto:ralph.schindler@lakeviewcivic.org)
 
@@ -35,7 +35,7 @@ Aside from maintaining and updating the main web site and its membership directo
 
 ## Techarrette
 
-Web site: http://nola.gov/techarrette/
+Web site: [http://nola.gov/techarrette/](http://nola.gov/techarrette/)
 
 > "Techarrettes are creative, intensive, collaborative, iterative design efforts that uses a series of carefully tailored inputs and questions to examine a single challenge from a variety of perspectives and scales. The goal of a Techarrette is to conduct highly rich planning and/or generate new ideas. This techarrette will address software design considerations for a generalizable, low-cost, scalable web-based tool for crowdsourcing the scoring of property conditions from a centrally collected photographic dataset."
 
@@ -49,13 +49,13 @@ At the moment, Greg has his hands full with the project and has declined help wi
 
 ## Code for America
 
-Web site: http://codeforamerica.org/brigade/
+Web site: [http://codeforamerica.org/brigade/](http://codeforamerica.org/brigade/)
 
 New Orleans doesn’t appear to have a brigade. Perhaps we should see about forming one.
 
 ## The Vault
 
-Web site: http://thelensnola.org/TheVault/
+Web site: [http://thelensnola.org/TheVault/](http://thelensnola.org/TheVault/)
 
 Contact: [Abe Handler](https://www.facebook.com/abe.handler)
 

@@ -23,7 +23,7 @@ Web site: [http://operationspark.org](http://operationspark.org)
 
 Contact: [John Fabroni](https://twitter.com/OperationSpark)
 
-> "John Fabroni... is running what is basically Cafe Reconcile for web development. He's running a bootcamp out of 4.0 Schools right now teaching underprivileged kids how to code and it's going really well. This is an awesome program that I'd love to see more people get involved in." ~ [504boy]([http://www.reddit.com/user/504boy) ([source](http://www.reddit.com/r/NewOrleans/comments/2c1zk8/operation_spark_is_teaching_underpriveleged_new/))](http://www.reddit.com/user/504boy) ([source](http://www.reddit.com/r/NewOrleans/comments/2c1zk8/operation_spark_is_teaching_underpriveleged_new/)))
+> "John Fabroni... is running what is basically Cafe Reconcile for web development. He's running a bootcamp out of 4.0 Schools right now teaching underprivileged kids how to code and it's going really well. This is an awesome program that I'd love to see more people get involved in." ~ [504boy](http://www.reddit.com/user/504boy) ([source](http://www.reddit.com/r/NewOrleans/comments/2c1zk8/operation_spark_is_teaching_underpriveleged_new/))
 
 ## Lakeview Civic
 
@@ -41,7 +41,7 @@ Web site: [http://nola.gov/techarrette/](http://nola.gov/techarrette/)
 
 ## Central City Little Free Library Project
 
-Web site: https://www.facebook.com/CentralCityLFL
+Web site: [https://www.facebook.com/CentralCityLFL](https://www.facebook.com/CentralCityLFL)
 
 Contact: [Greg Cartwright](https://www.facebook.com/greg.cartwright.5)
 

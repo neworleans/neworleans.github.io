@@ -10,7 +10,7 @@ body {
   padding:0 2em 5em;
   background:rgb(253, 253, 253);
   margin:auto;
-  max-width:33em;
+  max-width:39em;
   color:rgb(10, 10, 10);
 }
 
@@ -86,7 +86,7 @@ code {font-family:courier, monospace;}
 p > code {padding:0.25em; background:#eee;}
 pre {text-align:left; font-size:100%;}
 hr {height:0; color:#eee; border:1px solid #eee; margin:2em 0 1em;}
-td {text-align: left; white-space: nowrap;}
+td {text-align: left; white-space: nowrap; padding: 0.5em;}
 
 .normal {font-weight:normal;}
 .quiet {color:#999;}

@@ -9,5 +9,3 @@ title: Home
 > ~ [NPR](http://www.npr.org/2014/05/30/317361626/techies-white-house-take-part-in-national-day-of-civic-hacking), 2014-05-30
 
 The purpose of this site is to aid in the introduction and organization of people who love New Orleans and want to help make it better.
-
-[Membership](https://neworleans.github.io/membership) | [Projects](https://neworleans.github.io/projects)

@@ -59,6 +59,12 @@ Web site: [http://codeforamerica.org/brigade/](http://codeforamerica.org/brigade
 
 New Orleans doesn’t appear to have a brigade. Perhaps we should see about forming one.
 
+## Catchafire
+
+Web site: [https://www.catchafire.org](https://www.catchafire.org)
+
+An organization that matches prospective volunteers with non-profit organizations needing assistance. Unfortunately, it doesn't appear to have a presence in New Orleans, but that could change if more local non-profits are made aware of it.
+
 ## The Vault
 
 Web site: [http://thelensnola.org/TheVault/](http://thelensnola.org/TheVault/)
